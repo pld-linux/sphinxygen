@@ -6,7 +6,7 @@ Summary:	A script to generate Sphinx ReST from Doxygen XML
 Summary(pl.UTF-8):	Skrypt do generowania sphinxowego ReSTa z XML-a Doxygena
 Name:		sphinxygen
 Version:	1.0.4
-Release:	1
+Release:	2
 License:	ISC
 Group:		Development/Tools
 Source0:	http://download.drobilla.net/%{name}-%{version}.tar.gz
